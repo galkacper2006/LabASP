@@ -37,6 +37,7 @@
 </header>
 <div class="container">
     <main role="main" class="pb-3">
+        @if (TempData["Success"] is string ok) { <div class="alert alert-success">@ok</div> }
         @RenderBody()
     </main>
 </div>
