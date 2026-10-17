@@ -7,23 +7,24 @@
 
 <h2>Lista książek</h2>
 <table class="table">
-    <thead>
-    <th>
-        Tytuł
-    </th>
-    <th>
-        Cena
-    </th>
-    </thead>
+<thead>
+<th>
+    Tytuł
+</th>
+<th>
+    Cena
+</th>
+</thead>
+</table>
+@model List<Book>
+<h2>Książki</h2>
+<a asp-action="Create" class="btn btn-primary mb-3">+ Dodaj książkę</a>
+< class="table">
+    <thead><tr><th>Tytuł</th><th>Autor</th><th>Rok</th><th>Cena</th></tr></thead>
     <tbody>
-    @{
-        foreach (var book in @Model)
-        {
-            <tr>
-                <td>@book.Title</td><td>@book.Price</td>
-            </tr>
-            
-        }
+    @foreach (var b in Model)
+    {
+        <partial name="_BookRow" model="b" />
     }
     </tbody>
-</table>
+  
