@@ -6,42 +6,205 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f8cac4a-ae72-4fc2-9080-85055cb2cd4b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lab_app/screenshots/echo-network.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab_app/screenshots/import-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab_app/screenshots/import-415.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab_app/screenshots/tabela-B.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.staticwebassets.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.staticwebassets.endpoints.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.staticwebassets.runtime.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.staticwebassets.runtime.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.genruntimeconfig.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rbcswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rbcswa.dswa.cache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/ref/lab_app.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/ref/lab_app.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/refint/lab_app.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/refint/lab_app.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rjimswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rjimswa.dswa.cache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rjsmrazor.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rjsmrazor.dswa.cache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rpswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rpswa.dswa.cache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.build.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.build.endpoints.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.build.json.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.build.json.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/lab_app.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/lab_app.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/lab_app.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/lab_app.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LabASP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LabASP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/Controllers/BookController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/Controllers/HomeController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/Lab1.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/Models/BookDto.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/Models/ErrorViewModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/Properties/launchSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/Views/Book/Details.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/Views/Home/Index.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/Views/Home/Privacy.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/Views/Shared/Error.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/Views/Shared/_Layout.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/Views/Shared/_Layout.cshtml.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/Views/Shared/_ValidationScriptsPartial.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/Views/_ViewImports.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/Views/_ViewStart.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.staticwebassets.endpoints.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.staticwebassets.runtime.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/lab_app.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/.NETCoreApp,Version=v10.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/03oqa456e4-{0}-d4r6k3f320-d4r6k3f320.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/0ologyf41o-{0}-fsbi9cje9m-fsbi9cje9m.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/1n45fmj29q-{0}-fvhpjtyr6v-fvhpjtyr6v.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/1tp67ezkmy-{0}-jd9uben2k1-jd9uben2k1.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/1vy5yiv1yt-{0}-q9ht133ko3-q9ht133ko3.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/2rlr37xths-{0}-d6nrnj6jjx-d6nrnj6jjx.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/3eyunk2ldu-{0}-v0zj4ognzu-v0zj4ognzu.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/3vf7fr1xyf-{0}-pj5nd1wqec-pj5nd1wqec.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/4jiz7r88rz-{0}-hrwsygsryq-hrwsygsryq.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/4qt6bxoeby-{0}-y7v9cxd14o-y7v9cxd14o.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/5p649hdhf8-{0}-cosvhxvwiu-cosvhxvwiu.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/5y0dcg3x0i-{0}-48y08845bh-48y08845bh.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/5zsdb2fwae-{0}-mrlpezrjn3-mrlpezrjn3.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/68asya2rf6-{0}-m9qm4tazc0-m9qm4tazc0.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/6b09tlzelt-{0}-rxsg74s51o-rxsg74s51o.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/6kmw8hhcuw-{0}-h1s4sie4z3-h1s4sie4z3.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/6m7gy9acf0-{0}-8vyfqsqgz1-8vyfqsqgz1.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/71dp08wbjw-{0}-ft3s53vfgj-ft3s53vfgj.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/934jk1vt2v-{0}-t1cqhe9u97-t1cqhe9u97.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/b0by4qcooc-{0}-c2jlpeoesf-c2jlpeoesf.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/bil8ff91do-{0}-b9sayid5wm-b9sayid5wm.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/c76t71ybia-{0}-87fc7y1x7t-87fc7y1x7t.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/cln9ikugrf-{0}-jjsuc0puko-jjsuc0puko.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/d11c2ol497-{0}-qesaa3a1fm-qesaa3a1fm.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/e7zlnbhftx-{0}-r4e9w2rdcm-r4e9w2rdcm.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/efhm1l5yh9-{0}-kbrnm935zg-kbrnm935zg.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/eyd2zxi91d-{0}-ee0r1s7dh0-ee0r1s7dh0.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/f62k8yxlap-{0}-356vix0kms-356vix0kms.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/hctc3oeuk4-{0}-aexeepp0ev-aexeepp0ev.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/icu1ppjkq1-{0}-9vr69e8ynj-9vr69e8ynj.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/if0ouwjhd8-{0}-worgj0nhwm-worgj0nhwm.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/imldmh6nss-{0}-mlv21k5csn-mlv21k5csn.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/ixz97as3d4-{0}-u9q1upor1n-u9q1upor1n.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/jf14xfuo8e-{0}-xvp3kq03qx-xvp3kq03qx.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/jkm4ku8xm7-{0}-wl58j5mj3v-wl58j5mj3v.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/khapni5r0l-{0}-j5mq2jizvt-j5mq2jizvt.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/l5x6fzfl67-{0}-ynyaa8k90p-ynyaa8k90p.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/lwj6ibe2vu-{0}-ltid2c489k-ltid2c489k.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/m2szp01ohd-{0}-43atpzeawx-43atpzeawx.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/m5rfd0tszb-{0}-6pdc2jztkx-6pdc2jztkx.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/myb2sjf1dd-{0}-iovd86k7lj-iovd86k7lj.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/n780s05ys9-{0}-ausgxo2sd3-ausgxo2sd3.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/nk83k1gx28-{0}-22vffe00uq-22vffe00uq.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/o8glxr9vcl-{0}-83jwlth58m-83jwlth58m.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/okycii0hu3-{0}-keugtjm085-keugtjm085.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/pockv82q35-{0}-xtxxf3hu2r-xtxxf3hu2r.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/pshcoprn7d-{0}-x0q3zqp4vz-x0q3zqp4vz.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/q662bkh6wv-{0}-tmc1g35s3z-tmc1g35s3z.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/qnm670oclc-{0}-4d85u1mtcx-4d85u1mtcx.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/rlpica95sy-{0}-eokci6vg3h-eokci6vg3h.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/sfegiqdosg-{0}-ttgo8qnofa-ttgo8qnofa.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/sgttt9i9w4-{0}-sejl45xvog-sejl45xvog.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/sju0nrwtnw-{0}-hd3gran6i8-hd3gran6i8.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/sypf17fa05-{0}-gye83jo8yx-gye83jo8yx.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/thnxwic4uz-{0}-c2oey78nd0-c2oey78nd0.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/uqksny5e3l-{0}-zub09dkrxp-zub09dkrxp.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/uv7xnlyjhr-{0}-61n19gt1b8-61n19gt1b8.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/vjlk6llsdw-{0}-03hjc8e09r-03hjc8e09r.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/vjwrgekby7-{0}-nvvlpmu67g-nvvlpmu67g.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/w6mqsahk10-{0}-eokci6vg3h-eokci6vg3h.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/xr14loh6a7-{0}-c63t5i9ira-c63t5i9ira.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/xs0915agfz-{0}-gk0pw8i4co-gk0pw8i4co.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/yowlmn1hcf-{0}-0j3bgjxly4-0j3bgjxly4.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/compressed/zwg9s7fgvf-{0}-4094rpi4f9-4094rpi4f9.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.MvcApplicationPartsAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.RazorAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.RazorAssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.sourcelink.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rbcswa.dswa.cache.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/ref/lab_app.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/refint/lab_app.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rjimswa.dswa.cache.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rjsmrazor.dswa.cache.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rpswa.dswa.cache.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/scopedcss/bundle/lab_app.styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/scopedcss/projectbundle/lab_app.bundle.scp.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.build.endpoints.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.build.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.build.json.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/swae.build.ex.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/lab_app.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/lab_app.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/lab_app.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/rider.project.model.nuget.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/rider.project.restore.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/screenshots/echo-network.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/screenshots/import-200.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/screenshots/import-415.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/screenshots/tabela-B.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/css/site.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/js/site.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/jquery-validation/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/jquery-validation/dist/additional-methods.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/jquery-validation/dist/additional-methods.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/jquery-validation/dist/jquery.validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/jquery/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/jquery/dist/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/jquery/dist/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/jquery/dist/jquery.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/jquery/dist/jquery.slim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/jquery/dist/jquery.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/wwwroot/lib/jquery/dist/jquery.slim.min.map" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,9 +234,14 @@
     &quot;accountId&quot;: &quot;70cd3a97-1be0-4125-b1ea-62c3e7f9c5e6&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/lab_app/Views/Shared/_ValidationScriptsPartial.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lab_app/Views/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lab_app/Views/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="Toolset" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5,
@@ -84,22 +252,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Launch Settings Profile.lab_app: https.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "cidr.known.project.marker": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "lab1",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.environmentSetup"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.lab_app: https.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;lab2&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.environmentSetup&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.lab_app: https">
     <configuration name="lab_app: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/lab_app/lab_app.csproj" />

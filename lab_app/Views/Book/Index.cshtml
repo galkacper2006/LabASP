@@ -1,0 +1,33 @@
+@model List<lab_app.Models.Book>
+@{
+    ViewData["Title"] = "Książki";
+}
+
+<h2>Książki</h2>
+<a asp-controller="Book" asp-action="Create" class="btn btn-primary mb-3">+ Dodaj książkę</a>
+
+<table class="table book-table">
+    <thead>
+    <tr><th>Tytuł</th><th>Autor</th><th>Rok</th><th>Cena</th></tr>
+    </thead>
+    <tbody>
+    @foreach (var b in Model)
+    {
+        <partial name="_BookRow" model="b" />
+    }
+    </tbody>
+</table>
+
+@section Styles {
+    <style>
+        .book-table thead { background: #f2f5fa; }
+    </style>
+}
+
+@section Scripts {
+    <script>console.log("Uruchomiono skrypt widoku Book/Index");</script>
+}
+
+@section Footer {
+    <span>BookStore — laboratorium 2, widoki Razor i walidacja</span>
+}
