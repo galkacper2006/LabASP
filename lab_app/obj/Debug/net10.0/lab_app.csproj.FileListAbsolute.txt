@@ -193,3 +193,4 @@ C:\Users\Kacper\RiderProjects\LabASP\lab_app\obj\Debug\net10.0\refint\lab_app.dl
 C:\Users\Kacper\RiderProjects\LabASP\lab_app\obj\Debug\net10.0\lab_app.pdb
 C:\Users\Kacper\RiderProjects\LabASP\lab_app\obj\Debug\net10.0\lab_app.genruntimeconfig.cache
 C:\Users\Kacper\RiderProjects\LabASP\lab_app\obj\Debug\net10.0\ref\lab_app.dll
+C:\Users\Student\RiderProjects\LabASP\lab_app\obj\Debug\net10.0\lab_app.sourcelink.json

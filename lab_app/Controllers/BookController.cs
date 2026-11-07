@@ -1,7 +1,7 @@
 using System.Text;
+using System.Linq;
 using lab_app.Models;
 using Microsoft.AspNetCore.Mvc;
-
 namespace lab_app.Controllers;
 
 public class BookController : Controller
@@ -61,4 +61,26 @@ public class BookController : Controller
     // GET /Book/Health
     public IActionResult Health() =>
         Json(new { status = "ok", time = DateTime.Now });
+    
+    public async Task<IActionResult> ByYear(int year)
+    {
+        var books = BookStoreMemory.Books
+            .Where(b => b.PublicationDate?.Year == year)
+            .ToList();
+
+        return await Task.FromResult<IActionResult>(View("Index", books));
+    }
+
+    public async Task<IActionResult> ByIsbn(string isbn)
+    {
+        var book = BookStoreMemory.Books.FirstOrDefault(b =>
+            new string(b.Isbn.Where(char.IsDigit).ToArray()) == isbn);
+
+        if (book == null)
+            return NotFound();
+
+        return await Task.FromResult<IActionResult>(
+            RedirectToAction(nameof(Details), new { id = book.Id }));
+    }
+
 }

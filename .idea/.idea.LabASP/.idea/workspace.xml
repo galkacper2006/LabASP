@@ -6,10 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f8cac4a-ae72-4fc2-9080-85055cb2cd4b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lab_app/screenshots/echo-network.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab_app/screenshots/import-200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab_app/screenshots/import-415.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab_app/screenshots/tabela-B.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LabASP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LabASP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/Controllers/BookController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/Controllers/BookController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/Views/Book/Details.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/Views/Book/Details.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.pdb" afterDir="false" />
@@ -25,6 +25,7 @@
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.genruntimeconfig.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rbcswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rbcswa.dswa.cache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/ref/lab_app.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/ref/lab_app.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/refint/lab_app.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/refint/lab_app.dll" afterDir="false" />
@@ -41,6 +42,7 @@
       <change beforePath="$PROJECT_DIR$/lab_app/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +56,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lab2" />
+        <entry key="$PROJECT_DIR$" value="lab1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -65,12 +67,18 @@
     &quot;assignee&quot;: &quot;galkacper2006&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/galkacper2006/LabASP.git&quot;,
-    &quot;accountId&quot;: &quot;70cd3a97-1be0-4125-b1ea-62c3e7f9c5e6&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/galkacper2006/LabASP.git",
+    "accountId": "153d2e16-5ebe-4906-a61a-e0fd72c1abe3"
   }
-}</component>
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/lab_app/Areas/Admin/Controllers/DashboardController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lab_app/Models/Book.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lab_app/Models/BookStoreMemory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lab_app/Models/RouteInfo.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -95,9 +103,10 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "cidr.known.project.marker": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "lab1",
+    "git-widget-placeholder": "lab3",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.environmentSetup"
+    "settings.editor.selected.configurable": "preferences.environmentSetup",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager" selected=".NET Launch Settings Profile.lab_app: https">
@@ -141,6 +150,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1793985403787</updated>
+      <workItem from="1794012527018" duration="3480000" />
     </task>
     <servers />
   </component>
