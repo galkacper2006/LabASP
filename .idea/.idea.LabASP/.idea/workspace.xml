@@ -7,43 +7,24 @@
   <component name="ChangeListManager">
     <list default="true" id="8f8cac4a-ae72-4fc2-9080-85055cb2cd4b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LabASP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LabASP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/Controllers/BookController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/Controllers/BookController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/Views/Book/Details.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/Views/Book/Details.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/Controllers/HomeController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/Models/RouteInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/Models/RouteInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.staticwebassets.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.staticwebassets.endpoints.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.staticwebassets.runtime.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.staticwebassets.runtime.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/apphost.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.genruntimeconfig.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rbcswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rbcswa.dswa.cache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/ref/lab_app.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/ref/lab_app.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/refint/lab_app.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/refint/lab_app.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rjimswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rjimswa.dswa.cache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rjsmrazor.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rjsmrazor.dswa.cache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rpswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rpswa.dswa.cache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.build.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.build.endpoints.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.build.json.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.build.json.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/lab_app.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/lab_app.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/lab_app.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/lab_app.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,8 +131,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1793985403787</updated>
-      <workItem from="1794012527018" duration="3480000" />
+      <workItem from="1794012527018" duration="4422000" />
     </task>
+    <task id="LOCAL-00001" summary="Lab3 Init">
+      <option name="closed" value="true" />
+      <created>1794016314701</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1794016314701</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +151,8 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Lab3 Init" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab3 Init" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
