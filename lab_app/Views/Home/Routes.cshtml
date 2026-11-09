@@ -1,0 +1,23 @@
+﻿@model IEnumerable<lab_app.Models.RouteInfo>
+
+<h2>Tabela tras aplikacji</h2>
+
+<table class="table table-bordered">
+    <thead>
+    <tr>
+        <th>Adres</th>
+        <th>Kontroler.Akcja</th>
+        <th>Metoda HTTP</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var route in Model)
+    {
+        <tr>
+            <td>@route.Pattern</td>
+            <td>@route.Controller.@route.Action</td>
+            <td>@route.Methods</td>
+        </tr>
+    }
+    </tbody>
+</table>

@@ -1,0 +1,19 @@
+<changelist name="Uncommitted_changes_before_Checkout_at_09_11_2026_19_01_[Changes]" date="1794247498567" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/.idea.LabASP/.idea/shelf/Uncommitted_changes_before_Checkout_at_09_11_2026_19_01_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 09.11.2026 19:01 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="lab_app/obj/project.nuget.cache" />
+    <option name="AFTER_PATH" value="lab_app/obj/project.nuget.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.LabASP/.idea/shelf/Uncommitted_changes_before_Checkout_at_09_11_2026_19_01_[Changes]/project.nuget.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="lab_app/obj/Debug/net10.0/lab_app.AssemblyInfoInputs.cache" />
+    <option name="AFTER_PATH" value="lab_app/obj/Debug/net10.0/lab_app.AssemblyInfoInputs.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.LabASP/.idea/shelf/Uncommitted_changes_before_Checkout_at_09_11_2026_19_01_[Changes]/lab_app.AssemblyInfoInputs.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="lab_app/obj/Debug/net10.0/lab_app.assets.cache" />
+    <option name="AFTER_PATH" value="lab_app/obj/Debug/net10.0/lab_app.assets.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.LabASP/.idea/shelf/Uncommitted_changes_before_Checkout_at_09_11_2026_19_01_[Changes]/lab_app.assets.cache" />
+  </binary>
+</changelist>
