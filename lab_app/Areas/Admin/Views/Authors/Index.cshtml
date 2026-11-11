@@ -1,0 +1,39 @@
+﻿@model IEnumerable<lab_app.Models.Author>
+
+@{
+    ViewData["Title"] = "Autorzy";
+}
+
+<h2>Lista autorów</h2>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["Success"]
+    </div>
+}
+
+<a asp-area="Admin"
+   asp-controller="Authors"
+   asp-action="Create"
+   class="btn btn-primary mb-3">
+    + Dodaj autora
+</a>
+
+<table class="table table-bordered">
+    <thead>
+    <tr>
+        <th>ID</th>
+        <th>Imię i nazwisko</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var author in Model)
+    {
+        <tr>
+            <td>@author.Id</td>
+            <td>@author.Name</td>
+        </tr>
+    }
+    </tbody>
+</table>

@@ -1,0 +1,29 @@
+﻿@model lab_app.Models.ErrorViewModel
+
+@{
+    ViewData["Title"] = "Błąd serwera";
+}
+
+<div class="text-center mt-5">
+    <h1 class="display-1 text-danger">500</h1>
+
+    <h2>Wewnętrzny błąd serwera</h2>
+
+    <p>
+        Podczas przetwarzania żądania
+        wystąpił nieoczekiwany błąd.
+    </p>
+
+    @if (!string.IsNullOrEmpty(Model?.RequestId))
+    {
+        <p class="text-muted">
+            ID żądania: @Model.RequestId
+        </p>
+    }
+
+    <a asp-controller="Home"
+       asp-action="Index"
+       class="btn btn-primary mt-3">
+        Powrót do strony głównej
+    </a>
+</div>

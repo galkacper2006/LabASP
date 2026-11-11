@@ -7,40 +7,27 @@
   <component name="ChangeListManager">
     <list default="true" id="8f8cac4a-ae72-4fc2-9080-85055cb2cd4b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LabASP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LabASP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/Areas/Admin/Views/Dashboard/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/Areas/Admin/Views/Dashboard/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/Controllers/BookController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/Controllers/BookController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/Controllers/HomeController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.staticwebassets.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.staticwebassets.endpoints.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.staticwebassets.runtime.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.staticwebassets.runtime.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/apphost.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.genruntimeconfig.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rbcswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rbcswa.dswa.cache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/ref/lab_app.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/ref/lab_app.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/refint/lab_app.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/refint/lab_app.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rjimswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rjimswa.dswa.cache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rjsmrazor.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rjsmrazor.dswa.cache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rpswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rpswa.dswa.cache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.build.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.build.endpoints.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.build.json.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.build.json.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/lab_app.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/lab_app.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/lab_app.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/lab_app.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,19 +51,91 @@
     &quot;assignee&quot;: &quot;galkacper2006&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/galkacper2006/LabASP.git&quot;,
-    &quot;accountId&quot;: &quot;153d2e16-5ebe-4906-a61a-e0fd72c1abe3&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/galkacper2006/LabASP.git",
+    "accountId": "70cd3a97-1be0-4125-b1ea-62c3e7f9c5e6"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/lab_app/Areas/Admin/Controllers/AuthorsController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab_app/Areas/Admin/Controllers/DashboardController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lab_app/Areas/Admin/Views/Authors/Create.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lab_app/Areas/Admin/Views/Authors/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lab_app/Areas/Admin/Views/Shared/Error.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lab_app/Filters/GlobalExceptionFilter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lab_app/Filters/LogActionFilter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lab_app/Middleware/RequestTimingMiddleware.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lab_app/Middleware/RequestsStats.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lab_app/Models/Author.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab_app/Models/Book.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab_app/Models/BookStoreMemory.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab_app/Models/RouteInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lab_app/Validation/NotInFutureAttribute.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lab_app/Views/Home/HttpStatus.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lab_app/Views/Home/Routes.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lab_app/obj/lab_app.csproj.nuget.dgspec.json" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0" />
+      <entry key="M2" value="1.0" />
+      <entry key="M5" value="1.0" />
+      <entry key="M10" value="1.0" />
+      <entry key="M15" value="1.0" />
+      <entry key="M30" value="1.0" />
+      <entry key="H1" value="1.0" />
+      <entry key="H2" value="1.0" />
+      <entry key="H4" value="1.0" />
+      <entry key="D1" value="1.0" />
+      <entry key="W1" value="1.0" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.40895102927889054" />
+      <entry key="MS500" value="0.8362463999140628" />
+      <entry key="S2" value="0.956276680412056" />
+      <entry key="S5" value="0.9822757581595407" />
+      <entry key="S10" value="0.9910982585796126" />
+      <entry key="S30" value="0.997023904502027" />
+      <entry key="S60" value="0.9985108434574094" />
+      <entry key="M2" value="0.9992551443237154" />
+      <entry key="M5" value="0.9997019911258277" />
+      <entry key="M10" value="0.9998509844600983" />
+      <entry key="M15" value="0.9999006538392764" />
+      <entry key="M30" value="0.9999503256858695" />
+      <entry key="H1" value="0.9999751625344849" />
+      <entry key="H2" value="0.999987581190129" />
+      <entry key="H4" value="0.9999937905757861" />
+      <entry key="D1" value="0.9999989650932868" />
+      <entry key="W1" value="0.9999998521561182" />
+    </decayedShown>
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -168,7 +227,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Lab3 Init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab3 Init" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
