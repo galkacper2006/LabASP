@@ -26,4 +26,15 @@
 | /Home/Error/{id?}                    | Home.Error      | \*          |
 | /Home/Index/{id?}                    | Home.Index      | \*          |
 | /Home/Privacy/{id?}                  | Home.Privacy    | \*          |
-| /Home/Routes/{id?}                   | Home.Routes     | \*          |
+| /Home/Routes/{id?}  
+### Middleware
+- X-Elapsed-Ms: 3
+- X-Request-Count: 10
+- /blokada – 403 Forbidden 
+### Filtry
+- X-Action-Ms: 0
+- /Book/Hello – działa
+- /Book/Boom – obsługa błędu 500 działa
+### Obsługa błędów
+- /nie-ma-takiej-strony – własna strona 404
+- /Book/Status?code=418 – własna strona 418

@@ -18,7 +18,7 @@ public class RequestTimingMiddleware
     public async Task InvokeAsync(HttpContext ctx, RequestStats stats)
     {
         var sw = Stopwatch.StartNew();
-        var n = stats.Hit();
+        var n = stats.Hit(ctx.Request.Path.Value ?? "/");
 
         ctx.Response.OnStarting(() =>
         {

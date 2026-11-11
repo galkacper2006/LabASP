@@ -16,10 +16,12 @@ public class Program
 
         builder.Services.AddScoped<GlobalExceptionFilter>();
         builder.Services.AddScoped<LogActionFilter>();
+        builder.Services.AddScoped<MeasureTimeFilter>();
         builder.Services.AddSingleton<RequestStats>();
 
         var app = builder.Build();
-
+        
+        
         app.UseMiddleware<RequestTimingMiddleware>();
 
         if (!app.Environment.IsDevelopment())
@@ -51,7 +53,7 @@ public class Program
             "archive",
             "archive/{year:int}/{month:int:range(1,12)}",
             new { controller = "Book", action = "Archive" });
-
+ 
 
         app.MapControllerRoute("docs", "docs/{*path}",
             new { controller = "Home", action = "Docs" });

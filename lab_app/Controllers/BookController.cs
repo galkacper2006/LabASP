@@ -6,7 +6,10 @@ using Microsoft.AspNetCore.Mvc;
 using lab_app.Filters;
 
 namespace lab_app.Controllers;
-[ServiceFilter(typeof(LogActionFilter))]
+[ServiceFilter(typeof(LogActionFilter), Order = 1)]
+[ServiceFilter(typeof(MeasureTimeFilter), Order = 2)]
+
+
 
 public class BookController : Controller
 {

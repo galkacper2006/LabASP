@@ -11,3 +11,32 @@
    class="btn btn-primary">
     Zarządzaj autorami
 </a>
+
+@{
+    var topPaths = ViewBag.TopPaths as
+        IReadOnlyList<KeyValuePair<string, long>>;
+}
+
+<h3 class="mt-4">TOP 5 odwiedzanych adresów</h3>
+
+<table class="table table-striped">
+    <thead>
+    <tr>
+        <th>Adres</th>
+        <th>Liczba żądań</th>
+    </tr>
+    </thead>
+    <tbody>
+    @if (topPaths != null)
+    {
+        foreach (var item in topPaths)
+        {
+            <tr>
+                <td>@item.Key</td>
+                <td>@item.Value</td>
+            </tr>
+        }
+    }
+    </tbody>
+</table>
+
