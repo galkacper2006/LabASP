@@ -4,6 +4,7 @@ using System.Linq;
 using lab_app.Models;
 using Microsoft.AspNetCore.Mvc;
 using lab_app.Filters;
+using lab_app.Services;
 
 namespace lab_app.Controllers;
 [ServiceFilter(typeof(LogActionFilter), Order = 1)]
@@ -13,7 +14,35 @@ namespace lab_app.Controllers;
 
 public class BookController : Controller
 {
-    public IActionResult Index() => View(BookStoreMemory.Books);
+    
+    private readonly IBookService _books;
+
+    public BookController(IBookService books)
+    {
+        _books = books;
+    }
+
+    
+    public async Task<IActionResult> Index(
+        int page = 1,
+        int pageSize = 5,
+        string? search = null,
+        string sort = "title",
+        string dir = "asc")
+    {
+        pageSize = Math.Clamp(pageSize, 1, 100);
+
+        var result = await _books.GetPageAsync(
+            page, pageSize, search, sort, dir);
+
+        ViewBag.Search = search ?? "";
+        ViewBag.Sort = sort;
+        ViewBag.Dir = dir;
+        ViewBag.PageSize = pageSize;
+
+        return View(result);
+    }
+
 
     [HttpGet]
     public IActionResult Create() => View(new BookFormViewModel());
@@ -135,6 +164,36 @@ public class BookController : Controller
             .ToList();
 
         return View("Index", books);
+    }
+
+    private static BookFormViewModel ToForm(Book book)
+    {
+        return new BookFormViewModel
+        {
+            Id = book.Id,
+            Title = book.Title,
+            Isbn = book.Isbn,
+            PublicationDate = book.PublicationDate,
+            NumPages = book.NumPages,
+            Price = book.Price,
+            Author = book.Author,
+            Publisher = book.Publisher
+        };
+    }
+
+    private static Book ToBook(BookFormViewModel vm)
+    {
+        return new Book
+        {
+            Id = vm.Id,
+            Title = vm.Title,
+            Isbn = vm.Isbn,
+            PublicationDate = vm.PublicationDate,
+            NumPages = vm.NumPages,
+            Price = vm.Price,
+            Author = vm.Author,
+            Publisher = vm.Publisher
+        };
     }
 
 

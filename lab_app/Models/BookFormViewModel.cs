@@ -37,6 +37,13 @@ public class BookFormViewModel : IValidatableObject
     [RegularExpression(@"^[A-Z]{3}-\d{4}$", ErrorMessage = "Kod wydawcy: 3 wielkie litery, myślnik i 4 cyfry (np. ABC-1234)")]
     [Display(Name = "Kod wydawcy (opcjonalnie)")]
     public string? PublisherCode { get; set; }
+    
+    
+    public int Id { get; set; }
+
+    [StringLength(100)]
+    public string? Publisher { get; set; }
+
 
     public IEnumerable<ValidationResult> Validate(ValidationContext validationContext)
     {

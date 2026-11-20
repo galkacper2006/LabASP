@@ -6,28 +6,70 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f8cac4a-ae72-4fc2-9080-85055cb2cd4b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LabASP/.idea/shelf/Uncommitted_changes_before_Checkout_at_06_11_2026_18_38_[Changes]/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LabASP/.idea/shelf/Uncommitted_changes_before_Checkout_at_06_11_2026_18_38_[Changes]/lab_app.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LabASP/.idea/shelf/Uncommitted_changes_before_Checkout_at_06_11_2026_18_38_[Changes]/lab_app.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LabASP/.idea/shelf/Uncommitted_changes_before_Checkout_at_06_11_2026_18_38_[Changes]/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LabASP/.idea/shelf/Uncommitted_changes_before_Checkout_at_06_11_2026_18_38_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LabASP/.idea/shelf/Uncommitted_changes_before_Checkout_at_06_11_2026_18_38__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LabASP/.idea/shelf/Uncommitted_changes_before_Checkout_at_06_11_2026_18_41_[Changes]/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LabASP/.idea/shelf/Uncommitted_changes_before_Checkout_at_06_11_2026_18_41_[Changes]/lab_app.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LabASP/.idea/shelf/Uncommitted_changes_before_Checkout_at_06_11_2026_18_41_[Changes]/lab_app.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LabASP/.idea/shelf/Uncommitted_changes_before_Checkout_at_06_11_2026_18_41_[Changes]/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LabASP/.idea/shelf/Uncommitted_changes_before_Checkout_at_06_11_2026_18_41_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LabASP/.idea/shelf/Uncommitted_changes_before_Checkout_at_06_11_2026_18_41__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LabASP/.idea/shelf/Uncommitted_changes_before_Checkout_at_06_11_2026_18_46_[Changes]1/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LabASP/.idea/shelf/Uncommitted_changes_before_Checkout_at_06_11_2026_18_46_[Changes]1/lab_app.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LabASP/.idea/shelf/Uncommitted_changes_before_Checkout_at_06_11_2026_18_46_[Changes]1/lab_app.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LabASP/.idea/shelf/Uncommitted_changes_before_Checkout_at_06_11_2026_18_46_[Changes]1/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LabASP/.idea/shelf/Uncommitted_changes_before_Checkout_at_06_11_2026_18_46_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LabASP/.idea/shelf/Uncommitted_changes_before_Checkout_at_06_11_2026_18_46__Changes_1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LabASP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LabASP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/Areas/Admin/Views/Dashboard/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/Areas/Admin/Views/Dashboard/Index.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/Controllers/BookController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/Controllers/BookController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_app/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/Controllers/HomeController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/Models/Book.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/Models/Book.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/Models/BookFormViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/Models/BookFormViewModel.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.staticwebassets.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.staticwebassets.endpoints.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.staticwebassets.runtime.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/bin/Debug/net10.0/lab_app.staticwebassets.runtime.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/lab_app.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/lab_app.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/apphost.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.genruntimeconfig.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/lab_app.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rbcswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rbcswa.dswa.cache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/ref/lab_app.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/ref/lab_app.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/refint/lab_app.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/refint/lab_app.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rjimswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rjimswa.dswa.cache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rjsmrazor.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rjsmrazor.dswa.cache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rpswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/rpswa.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.build.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.build.endpoints.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.build.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.build.json.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.build.json.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/Debug/net10.0/staticwebassets.development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/lab_app.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/lab_app.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/lab_app.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/lab_app.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/lab_app.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/lab_app.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab_app/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_app/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/lab_app/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +82,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lab1" />
+        <entry key="$PROJECT_DIR$" value="lab3" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,12 +93,12 @@
     &quot;assignee&quot;: &quot;galkacper2006&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/galkacper2006/LabASP.git",
-    "accountId": "70cd3a97-1be0-4125-b1ea-62c3e7f9c5e6"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/galkacper2006/LabASP.git&quot;,
+    &quot;accountId&quot;: &quot;70cd3a97-1be0-4125-b1ea-62c3e7f9c5e6&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/lab_app/Areas/Admin/Controllers/AuthorsController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab_app/Areas/Admin/Controllers/DashboardController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -70,12 +112,20 @@
     <setting file="file://$PROJECT_DIR$/lab_app/Models/Author.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab_app/Models/Book.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab_app/Models/BookStoreMemory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lab_app/Models/Ef/AppDbContext.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab_app/Models/RouteInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lab_app/Services/BookService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lab_app/Services/IBookService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lab_app/Services/PagedResult.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab_app/Validation/NotInFutureAttribute.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab_app/Views/Home/HttpStatus.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab_app/Views/Home/Routes.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab_app/obj/lab_app.csproj.nuget.dgspec.json" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
@@ -148,23 +198,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Launch Settings Profile.lab_app: https.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;lab3&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.environmentSetup&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Launch Settings Profile.lab_app: https.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "lab4",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.environmentSetup",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Launch Settings Profile.lab_app: https">
     <configuration name="lab_app: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/lab_app/lab_app.csproj" />

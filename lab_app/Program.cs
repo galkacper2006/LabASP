@@ -1,5 +1,9 @@
+
 using lab_app.Middleware;
 using lab_app.Filters;
+using lab_app.Data;
+using Microsoft.EntityFrameworkCore;
+using lab_app.Services;
 
 namespace lab_app;
 
@@ -19,9 +23,14 @@ public class Program
         builder.Services.AddScoped<MeasureTimeFilter>();
         builder.Services.AddSingleton<RequestStats>();
 
+        // LAB 4 - Entity Framework Core + SQLite
+        builder.Services.AddDbContext<AppDbContext>(options =>
+            options.UseSqlite(
+                builder.Configuration.GetConnectionString("Default")));
+        builder.Services.AddScoped<IBookService, BookService>();
+
         var app = builder.Build();
-        
-        
+
         app.UseMiddleware<RequestTimingMiddleware>();
 
         if (!app.Environment.IsDevelopment())
@@ -30,7 +39,6 @@ public class Program
             app.UseHsts();
         }
 
-        
         app.UseHttpsRedirection();
 
         app.UseStatusCodePagesWithReExecute(
@@ -40,29 +48,35 @@ public class Program
         app.UseRouting();
         app.UseAuthorization();
 
-
         app.MapStaticAssets();
 
-        app.MapControllerRoute("books-by-year", "books/year/{year:int:min(1450)}",
+        app.MapControllerRoute(
+            "books-by-year",
+            "books/year/{year:int:min(1450)}",
             new { controller = "Book", action = "ByYear" });
 
-        app.MapControllerRoute("books-by-isbn", "books/isbn/{isbn:regex(^\\d{{13}}$)}",
+        app.MapControllerRoute(
+            "books-by-isbn",
+            "books/isbn/{isbn:regex(^\\d{{13}}$)}",
             new { controller = "Book", action = "ByIsbn" });
-        
+
         app.MapControllerRoute(
             "archive",
             "archive/{year:int}/{month:int:range(1,12)}",
             new { controller = "Book", action = "Archive" });
- 
 
-        app.MapControllerRoute("docs", "docs/{*path}",
+        app.MapControllerRoute(
+            "docs",
+            "docs/{*path}",
             new { controller = "Home", action = "Docs" });
 
-        app.MapControllerRoute("admin-area",
+        app.MapControllerRoute(
+            "admin-area",
             "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}");
 
-        app.MapControllerRoute("default",
-                "{controller=Home}/{action=Index}/{id?}")
+        app.MapControllerRoute(
+            "default",
+            "{controller=Home}/{action=Index}/{id?}")
             .WithStaticAssets();
 
         app.Run();
